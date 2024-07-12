@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "SmartArt09",
+  "repo": "container-tina84y",
+  "name": "SmartArt09",
+  "email": "smartart04@gmail.com",
+}
